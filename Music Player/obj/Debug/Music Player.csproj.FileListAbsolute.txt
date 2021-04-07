@@ -1,0 +1,13 @@
+c:\users\projjal\documents\visual studio 2012\Projects\Music Player\Music Player\bin\Debug\Music Player.exe
+c:\users\projjal\documents\visual studio 2012\Projects\Music Player\Music Player\bin\Debug\Music Player.pdb
+c:\users\projjal\documents\visual studio 2012\Projects\Music Player\Music Player\bin\Debug\Interop.WMPLib.dll
+c:\users\projjal\documents\visual studio 2012\Projects\Music Player\Music Player\bin\Debug\AxInterop.WMPLib.dll
+c:\users\projjal\documents\visual studio 2012\Projects\Music Player\Music Player\obj\Debug\Music Player.csprojResolveAssemblyReference.cache
+c:\users\projjal\documents\visual studio 2012\Projects\Music Player\Music Player\obj\Debug\Interop.WMPLib.dll
+c:\users\projjal\documents\visual studio 2012\Projects\Music Player\Music Player\obj\Debug\AxInterop.WMPLib.dll
+c:\users\projjal\documents\visual studio 2012\Projects\Music Player\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
+c:\users\projjal\documents\visual studio 2012\Projects\Music Player\Music Player\obj\Debug\Music_Player.Form1.resources
+c:\users\projjal\documents\visual studio 2012\Projects\Music Player\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+c:\users\projjal\documents\visual studio 2012\Projects\Music Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.Cache
+c:\users\projjal\documents\visual studio 2012\Projects\Music Player\Music Player\obj\Debug\Music Player.exe
+c:\users\projjal\documents\visual studio 2012\Projects\Music Player\Music Player\obj\Debug\Music Player.pdb
